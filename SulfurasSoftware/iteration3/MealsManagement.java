@@ -41,6 +41,6 @@ public class MealsManagement {
 	public void getTimes() {
 		// TODO - implement MealsManagement.getTimes
 		throw new UnsupportedOperationException();
-	}
+	} 
 
 } 

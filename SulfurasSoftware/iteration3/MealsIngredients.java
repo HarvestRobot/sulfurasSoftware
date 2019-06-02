@@ -13,4 +13,4 @@ public class MealsIngredients {
 		this.ingredients = ingredients;
 	}  
  
-}
+} 
