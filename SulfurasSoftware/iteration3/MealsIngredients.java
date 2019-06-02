@@ -11,6 +11,6 @@ public class MealsIngredients {
 
 	public void setIngredients(string[][] ingredients) {
 		this.ingredients = ingredients;
-	}
-
+	}  
+ 
 }
